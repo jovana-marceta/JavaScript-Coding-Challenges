@@ -1,0 +1,14 @@
+{
+  "name": "javascriptalgorithmsanddatastructures",
+  "version": "1.0.0",
+  "description": "JavaScript algorithms and data structures challanges",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jovana Marceta",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
