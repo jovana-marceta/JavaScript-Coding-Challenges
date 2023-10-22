@@ -6,3 +6,4 @@
 2. [Get Sum Challenge](./1-basic-challanges/2-get-sum/readme.md)
 3. [Calculator Challenge](./1-basic-challanges/3-calculator/readme.md)
 4. [Count occurrences Challenge](./1-basic-challanges/4-count-occurrences/readme.md)
+5. [Find max number Challenge](./1-basic-challanges/5-find-max-number/readme.md)
